@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 #1. Import NumPy as np and print the version number.
 print("\nProblem 1: NumPy version =", np.__version__)
